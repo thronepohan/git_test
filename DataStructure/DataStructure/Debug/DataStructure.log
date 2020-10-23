@@ -1,0 +1,15 @@
+﻿  DataStructure.cpp
+C:\Users\im102\Desktop\VSCpp\DataStructure\DataStructure\DataStructure.cpp(11,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\im102\Desktop\VSCpp\DataStructure\DataStructure\priority_queue.hpp(35,8): warning C4101: 'parent': 未參考的區域變數
+C:\Users\im102\Desktop\VSCpp\DataStructure\DataStructure\priority_queue.hpp(31): message : 編譯 類別 樣板 成員函式 'void pohan::priority_queue<int>::push(T &)' 期間
+          with
+          [
+              T=int
+          ]
+C:\Users\im102\Desktop\VSCpp\DataStructure\DataStructure\DataStructure.cpp(23): message : 請參考正在進行編譯的函式 樣板 具現化 'void pohan::priority_queue<int>::push(T &)'
+          with
+          [
+              T=int
+          ]
+C:\Users\im102\Desktop\VSCpp\DataStructure\DataStructure\DataStructure.cpp(20): message : 請參考正在進行編譯的 類別 樣板 具現化 'pohan::priority_queue<int>'
+  DataStructure.vcxproj -> C:\Users\im102\Desktop\VSCpp\DataStructure\Debug\DataStructure.exe
